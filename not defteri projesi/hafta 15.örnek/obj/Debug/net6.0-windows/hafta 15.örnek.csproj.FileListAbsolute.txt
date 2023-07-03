@@ -1,0 +1,18 @@
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\bin\Debug\net6.0-windows\hafta 15.örnek.exe
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\bin\Debug\net6.0-windows\hafta 15.örnek.deps.json
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\bin\Debug\net6.0-windows\hafta 15.örnek.runtimeconfig.json
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\bin\Debug\net6.0-windows\hafta 15.örnek.dll
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\bin\Debug\net6.0-windows\hafta 15.örnek.pdb
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.csproj.AssemblyReference.cache
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta_15.örnek.Form1.resources
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.csproj.GenerateResource.cache
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.AssemblyInfoInputs.cache
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.AssemblyInfo.cs
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.csproj.CoreCompileInputs.cache
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.dll
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\refint\hafta 15.örnek.dll
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.pdb
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta 15.örnek.genruntimeconfig.cache
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\ref\hafta 15.örnek.dll
+C:\Users\cengiz\source\repos\hafta 15.örnek\hafta 15.örnek\obj\Debug\net6.0-windows\hafta_15.örnek.Properties.Resources.resources

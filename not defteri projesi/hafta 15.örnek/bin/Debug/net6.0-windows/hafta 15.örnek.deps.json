@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hafta 15.örnek/1.0.0": {
+        "runtime": {
+          "hafta 15.örnek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hafta 15.örnek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
